@@ -1,3 +1,4 @@
 wait(8)
+local CheckingLabel = script.Parent.Parent.Parent.MainFrame.CheckingLabel
 
-script.Parent.Parent.Parent.MainFrame.CheckingLabel.Text = "LOL"
+CheckingLabel.Text = "Working"
