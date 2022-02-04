@@ -1,1 +1,1 @@
-Working
+game:GetService("StarterGui").RaceLauncher4TOFIXAUTO.MainFrame.CheckingLabel.Text = "LOL"
