@@ -1,1 +1,3 @@
-lOl
+wait(8)
+
+script.Parent.Parent.CheckingLabel.Text = "Working...."
